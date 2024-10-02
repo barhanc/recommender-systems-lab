@@ -1,0 +1,6 @@
+venv/
+.vscode/
+*.joblib
+*.html
+activate.sh
+.ipynb_checkpoints
