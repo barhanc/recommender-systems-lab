@@ -1,6 +1,7 @@
 .vscode
 socialmediadata-beeradvocate/
 MINDsmall_train/
+ml-latest-small/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
