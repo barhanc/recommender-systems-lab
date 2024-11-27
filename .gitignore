@@ -2,6 +2,7 @@
 socialmediadata-beeradvocate/
 MINDsmall_train/
 ml-latest-small/
+movies_graph/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
